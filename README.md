@@ -1,5 +1,5 @@
-Sai sharmili 
-RA2111003011024
+K.Keerthana
+RA2111003010250
 
 **Disease Prediction from Symptoms**
 -------------------------------------
